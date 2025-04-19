@@ -132,7 +132,7 @@ export default function App() {
               Everything you need to know about coverage, premiums & tax benefits.
             </p>
             <a
-              href="/brochures/child-plan.pdf"
+              href={brochureCover}
               download
               className="mt-4 inline-flex items-center gap-2 bg-gradient-to-r from-pink-500 to-yellow-500 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-yellow-600 shadow-xl transition-all"
             >
