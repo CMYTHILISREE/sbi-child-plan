@@ -181,7 +181,7 @@ export default function App() {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl font-semibold mb-6 text-yellow-700">Get in Touch</h2>
-          <div className="inline-block bg-white p-8 rounded-2xl shadow-lg text-left space-y-3 max-w-md w-full">
+          <div className="inline-block bg-white  text-yellow-700 p-8 rounded-2xl shadow-lg text-left space-y-3 max-w-md w-full">
             <p><strong>Name:</strong> Mythili C</p>
             <p><strong>Phone:</strong> +91-8884695310</p>
             <p><strong>Email:</strong> cmythilisree@gmail.com</p>
